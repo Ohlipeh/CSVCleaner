@@ -6,6 +6,12 @@
 
 **CSV Cleaner** is a simple yet powerful Python automation tool designed to clean and organize CSV datasets automatically.
 
+### 📸 Demonstração do Sistema
+
+Aqui está o menu principal do validador em execução:
+
+![Print do Menu do Validador de Documentos](imagem_menu.png)
+
 > **💼 The Business Value**
 > Businesses often receive raw CSV files exported from different systems containing duplicate entries, inconsistent formatting, or disorganized columns. This script automates the tedious cleaning process, producing a structured output ready for Excel or further analysis, saving hours of manual work.
 
